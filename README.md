@@ -1,6 +1,6 @@
 ## Olá! Eu sou o João Pedro
 
-- 🌱 Estudando Java
+- 🌱 Desenvolvedor Full Stack Junior
 - 📫 Contate-me no email: joaopedroflauzinonascimento@gmail.com
 - 😄 Pronouns: Ele/Dele
 
@@ -13,7 +13,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="João-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="João-React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">  
+  <img align="center" alt="João-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">  
 </div>
   
   ##
