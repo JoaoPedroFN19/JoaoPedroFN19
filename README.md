@@ -1,6 +1,6 @@
 ## Olá, meu nome é <strong>João Pedro<trong>!
 
-> <i>Cursando Análise e Desenvolvimento de Sistemas - UNINTER 2|5</i> 
+> <i>Cursando Análise e Desenvolvimento de Sistemas - UNINTER 3|5</i> 
 <br> <i>Desenvolvedor Web Java Junior - Generation Brasil</i>
 <br> <i>Email: joaopedroflauzinonascimento@gmail.com</i>
 
